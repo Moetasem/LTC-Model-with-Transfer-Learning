@@ -1,0 +1,5 @@
+1- Input_1 and Input_2 have the extensive and reduced data for inputs, respectively.
+2- Output_1 and Output_2 have the extensive and reduced data for output, respectively.
+3- The columns in the inputs files are constructed as follows: 
+   f0      V0      Ps    Pw     Pb
+4- The output files have P0 data, where this code is utilized as NN-P.
