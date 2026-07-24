@@ -19,7 +19,7 @@ The proposed LTC-based Transfer Learning framework was developed and tested usin
 
 ### Programming Environment
 - Python 3.11 (recommended)
-- Jupyter Notebook or Google Colab
+- Jupyter Notebook
 
 ### Development Environment
 - Visual Studio Code (recommended) or any Python IDE
